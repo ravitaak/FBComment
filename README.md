@@ -9,7 +9,8 @@ Benefits:-
   5. Multiple Comments 
 
 How to use :- 
-      1. We can useit in mobile (Termux), Windows, Linux
+
+      1. We can use it in mobile (Termux), Windows, Linux
       2. Install required library
-      3. run the script
+      3. Run the script
       
